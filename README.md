@@ -2,7 +2,7 @@
 
 This repository contains the Jupyter notebooks used to analyze the processed diffuse scattering maps and to generate the figures in:
 
-<!-- TODO: add article title and link -->
+Zielinski K, Meisburger S, Lu K, Bassim V, Holton J, Fraser JS, Ando N. (2026). Iterating diffuse scattering protocols in parallel leads to reproducible, high-quality data from Mac1. The Stacks. [DOI: 10.82153/hrpy-t681](https://doi.org/10.82153/hrpy-t681)
 
 It is a [DataLad](https://www.datalad.org) dataset. The processed data are taken from the companion repository [diffuse-processing-mac1-east-west](https://github.com/prism-science/diffuse-processing-mac1-east-west), included as the subdataset `processing/`. Large files are tracked with git-annex and are publicly available through anonymous access.
 
