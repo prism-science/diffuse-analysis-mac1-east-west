@@ -1,0 +1,5 @@
+[submodule "processing"]
+	path = processing
+	url = https://github.com/prism-science/diffuse-processing-mac1-east-west
+	datalad-id = 27eacd99-5430-4165-aa2b-9368844d769a
+	datalad-url = https://github.com/prism-science/diffuse-processing-mac1-east-west
