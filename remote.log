@@ -1,0 +1,1 @@
+ff4001fb-4f82-4358-af0e-f86472b62733 autoenable=true bucket=diffuse-als-public datacenter=US embedcreds=no encryption=none fileprefix=annex/diffuse-analysis-mac1-east-west/ host=uaz1.osn.mghpcc.org name=osn-storage port=80 protocol=https public=yes publicurl=https://uaz1.osn.mghpcc.org/diffuse-als-public/ storageclass=STANDARD type=S3 timestamp=1792384485s
