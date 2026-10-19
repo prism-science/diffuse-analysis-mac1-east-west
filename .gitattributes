@@ -1,2 +1,5 @@
 * annex.backend=MD5E
 **/.git* annex.largefiles=nothing
+* annex.largefiles=nothing
+figures/source_data/** annex.largefiles=(not(mimetype=text/*))
+figures/export/** annex.largefiles=anything
