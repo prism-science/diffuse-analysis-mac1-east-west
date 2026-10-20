@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1425008409.svg)](https://doi.org/10.5281/zenodo.23487401)
+
 # Analysis of diffuse scattering data for apo Mac1 (SARS-CoV-2 nsp3 macrodomain)
 
 This repository contains the Jupyter notebooks used to analyze the processed diffuse scattering maps and to generate the figures in:
